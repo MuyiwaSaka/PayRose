@@ -18,7 +18,7 @@ namespace PayRose.Controllers
         // GET api/<controller>/5
         public string Get(int id)
         {
-            return "value";
+            return "The Employee concerned";
         }
 
         // POST api/<controller>
